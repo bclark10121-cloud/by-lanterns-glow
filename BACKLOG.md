@@ -21,6 +21,14 @@ Updated 2026-11-15 with v0.16.0. BC decides the order.
 
 1. A short what's-new card the first time a player opens a new version.
 
+## Unfinished standards items (2026-11-15)
+
+From the Open items in `STANDARDS_OVERRIDES.md`, plus what has not been tried on a real device. Each line comes off when it is done. BC picks when.
+
+- G8.1: music and sounds are made in code, not tracks from Patch.gg.
+- G5.11: Rumble on an Xbox controller in the Android app. The browser uses the browser's gamepad rumble. The Android app vibrates the phone only.
+- Real device check: a phone, the Retroid, an Xbox controller and sound. Nothing tried on a real device since the split.
+
 ## Later
 
 1. Nothing yet.
