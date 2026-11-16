@@ -1,11 +1,15 @@
 # By Lantern's Glow
 
-A no-combat journey through meadows, peaks, and memories.
+A no-combat journey through meadows, peaks, and memories. For Android and the browser.
 
-Walk the meadows, autumn woods, a cave, an underground lake, snowy peaks and a desert canyon by lantern light, in an angled view with soft light and shadow. Find 148 treasures, make friends and take your time.
+Play in the browser or download the Android APK from the game page: https://bclark10121-cloud.github.io/by-lanterns-glow/
 
-- Play and download: https://bclark10121-cloud.github.io/by-lanterns-glow/
-- What is new: `docs/release-notes/`
-- Backlog: `BACKLOG.md`
+More games: https://bclark10121-cloud.github.io/
 
-Split out of Helena Hollow on 2026-11-15. Build and test steps are in `CLAUDE.md`.
+## What is in this repo
+
+- `docs/`: the game page, the browser build, the Android APKs and the release notes.
+- `BACKLOG.md`: what is done and what is planned.
+- `CREDITS.md`: outside assets and their licences. `FONT-LICENSE-PixelifySans.txt`: the licence of the font in the game.
+
+The game's source is kept in a private repo.

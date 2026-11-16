@@ -1,6 +1,6 @@
 # Credits
 
-By Lantern's Glow is an original game. The world, the finds, the neighbors, the words and the interface are drawn and written in code in `android/app/src/main/assets/index.html`. No personal names here (G1.11).
+By Lantern's Glow is an original game. The world, the finds, the neighbors, the words and the interface are drawn and written in code in the game file. No personal names here (G1.11).
 
 ## Font
 
@@ -10,7 +10,8 @@ By Lantern's Glow is an original game. The world, the finds, the neighbors, the 
 ## Made for this game
 
 - Music, ambient sound and sound effects: made in code in the game file.
-- Every sprite, tile, icon and picture: drawn in code in the game file.
+- Every sprite, tile and picture: drawn in code in the game file.
+- The app icon (v0.16.0): a lit hand lantern over an angled meadow tile, drawn in code.
 
 ## Tools
 
