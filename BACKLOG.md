@@ -1,19 +1,20 @@
 # By Lantern's Glow: backlog
 
-Updated 2026-11-17 with v0.17.0. BC decides the order.
+Updated 2026-11-17 with v0.17.1. BC decides the order.
 
 ## Done
 
 - v0.1 to v0.14.8 as Helena Hollow, the 2D game with a pixel view and an angled view: six regions, 148 finds in 28 sets, museum, cabin, garden, fishing, bugs, neighbors, festivals, cooking, the merchant, photo mode, the Christmas theme.
 - v0.15.0 (2026-11-15): split out as By Lantern's Glow, its own public repo and game page. The angled view only. Its own Android package and save. View opens the Menu like the Menu button.
 - v0.16.0 (2026-11-15): the standards catch-up, with no new content. Its own app icon. Five save slots with Delete. One Menu button that opens a row at the top. The shared Settings menu: Music and Sound in five levels, Frame rate, Rumble, Text size, Reduce motion, Reset settings. A title card with Continue, Play, the controls and the version. How to play. Pause on focus loss and a lost controller. Hints follow the device in use. Tester tools behind the code in test builds. The source moved to the private repo `game-studio`. The page repo holds only the page and builds.
+- v0.17.1 (2026-11-17): BC found the three lantern start screens too alike. By Lantern's Glow gets Dawn Peaks: mountains at dawn above a sea of clouds, a wildflower meadow and a lantern on a trail signpost. Pixel Hollow keeps Lantern Hill.
 - v0.17.0 (2026-11-17): the lantern release. Lantern Lights, 8 night finds that show only inside the lantern light (156 treasures, 29 sets). The storybook talk box: parchment, the speaker on a red ribbon, text that writes itself out, pages and voice blips with a Settings switch. The Lantern Hill title card, a painted night scene drawn in code.
 - After v0.16.0 (2026-11-15, no new build): every older test suite updated to the new title card, Menu row, Settings rows, slot save keys and second press. `tests/gate.sh` keeps each suite's full output.
 
 ## Now
 
 1. Open items in `STANDARDS_OVERRIDES.md`: Patch.gg music (G8.1). BC tries v0.17.0 on a real phone and controller.
-2. One start screen look across every game (BC, 2026-11-17). To discuss next. Lantern Hill is a candidate pattern.
+2. Done 2026-11-17: one start screen layout across every game (G5.21). Each game has its own scene.
 
 ## Asked for by BC, not built yet
 
