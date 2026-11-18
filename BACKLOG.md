@@ -1,9 +1,10 @@
 # By Lantern's Glow: backlog
 
-Updated 2026-11-17 with v0.17.1. BC decides the order.
+Updated 2026-11-18 with v0.18.0. BC decides the order.
 
 ## Done
 
+- v0.18.0 (Release 7, kit 1.13.0): Records with the 18 stamps and 7 stats, Change controls for keys and buttons, Run with Hold or Toggle, old-save checks, the error log in Copy bug report and sound through the kit mixer.
 - v0.1 to v0.14.8 as Helena Hollow, the 2D game with a pixel view and an angled view: six regions, 148 finds in 28 sets, museum, cabin, garden, fishing, bugs, neighbors, festivals, cooking, the merchant, photo mode, the Christmas theme.
 - v0.15.0 (2026-11-15): split out as By Lantern's Glow, its own public repo and game page. The angled view only. Its own Android package and save. View opens the Menu like the Menu button.
 - v0.16.0 (2026-11-15): the standards catch-up, with no new content. Its own app icon. Five save slots with Delete. One Menu button that opens a row at the top. The shared Settings menu: Music and Sound in five levels, Frame rate, Rumble, Text size, Reduce motion, Reset settings. A title card with Continue, Play, the controls and the version. How to play. Pause on focus loss and a lost controller. Hints follow the device in use. Tester tools behind the code in test builds. The source moved to the private repo `game-studio`. The page repo holds only the page and builds.
@@ -68,3 +69,17 @@ From the Open items in `STANDARDS_OVERRIDES.md`, plus what has not been tried on
 3. The title card drops the app icon. The painted lantern on the hill takes its place. The icon stays on the phone, the tab and the game page.
 4. A tap on the world while the talk box is open turns the page and does not start walking.
 5. Speakers on the ribbon: every neighbor, Ada and the Merchant. Signs, mail and tips show without a ribbon.
+
+## Judgment calls in v0.18.0 (BC to confirm)
+
+1. Records shows the game's own 18 stamps as its achievements, the same as Keeper of the Hollow. Ten Sets and Curator take longer than two hours. They were in the game before G4.10.
+2. Change controls replaces the old controller rows in Settings, so keys and buttons live on one page. Old button choices carried over.
+3. Menu, View and B cannot be picked, so the Menu and Back always work. Walking stays on the stick and D-pad.
+4. Run has a keyboard key now (Shift), so Hold or Toggle works on keys too.
+5. Sound is made in code, so there are no files for `loudness.py`. The sound runs through the kit mixer.
+6. Backup codes stay the game's own `WV1:` codes (they already meet G5.19).
+
+## Open items from v0.18.0
+
+1. Release 8: Back at the top of every panel and both orientations (G5.30, G6.18). The web kit needs the header first.
+
