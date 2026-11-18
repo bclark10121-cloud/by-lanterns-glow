@@ -16,3 +16,7 @@ By Lantern's Glow is an original game. The world, the finds, the neighbors, the 
 ## Tools
 
 - Android Gradle Plugin and the Android SDK. https://developer.android.com (Apache 2.0)
+
+## Start screen title track (G5.21, v0.19.0)
+
+- "Morning" by Kevin MacLeod (incompetech.com, https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300003), licensed Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/). From the Patch.gg library. Changed by Patch: converted from MP3 to Ogg Vorbis, credit added to the Ogg comments. Changed: trimmed to a loop and level-matched. File `game/title.ogg`, inlined into the page by `build_html.py`.
