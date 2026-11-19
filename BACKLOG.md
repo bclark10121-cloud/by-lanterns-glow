@@ -4,6 +4,8 @@ Updated 2026-11-18 with v0.19.0. BC decides the order.
 
 ## Done
 
+- v0.19.1 (2026-11-18): start screen title (G5.21 Title, asked for by BC). The name sits in the dead center, above the buttons, in Marcellus (SIL Open Font License 1.1), on the start screen, the game page and the Game Shelf card. Kit 1.15.0.
+
 - v0.19.0 (2026-11-18), Release 8 and the title track (kit 1.14.0): Back at the top left of every full-screen card through the kit `BC.header` (asked for by BC, G5.30). The fit check passes at 12 sizes upright and sideways (G6.18). The start screen plays "Morning" (asked for by BC, G5.21).
 
 ### Judgment calls in v0.19.0 (BC to confirm)
